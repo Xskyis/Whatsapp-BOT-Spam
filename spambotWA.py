@@ -7,10 +7,10 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 import time
 
-message = "ASSALAMUALAIKUM WR.WB"
+message = "Pesan Kamu"
 amount = 100
 delay = 0.1
-contact = "Mama"
+contact = "Target Kamu"
 
 Options = webdriver.ChromeOptions()
 Options.add_argument('user-data-dir=D:\\ChromeProfile')
