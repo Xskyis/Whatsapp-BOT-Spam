@@ -1,4 +1,3 @@
-# Whatsapp-BOT-Spam
 Just ordinary <h1> Whatsapp BOT Spammer </h1> 
 
 <h3>Requiriments:</h3>
